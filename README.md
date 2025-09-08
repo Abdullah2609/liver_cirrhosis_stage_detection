@@ -47,3 +47,6 @@ liver_cirrhosis_stage/
 
 - The Random Forest model provides stage predictions with detailed performance metrics.
 - See the notebook output for accuracy and classification report.
+
+*Author*: Abdullah Sakeeb
+*Project*: Animal Classification Model with
